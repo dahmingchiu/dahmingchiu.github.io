@@ -147,6 +147,13 @@ title: When we were in school
       </div>
     </div>
     <div class="carousel-item">
+      <img class="d-block w-100" src="images/2015_italy.jpg" alt="">
+	  <div class="carousel-caption d-none d-md-block">
+		<h5>2015</h5>
+		<p>WWW'15 conference in Florence, Italy</p>
+      </div>
+    </div>
+    <div class="carousel-item">
       <img class="d-block w-100" src="images/2008_hongkong_qianwang.jpeg" alt="">
 	  <div class="carousel-caption d-none d-md-block">
 		<h5>2008</h5>
@@ -172,6 +179,13 @@ title: When we were in school
 	  <div class="carousel-caption d-none d-md-block">
 		<h5>2007</h5>
 		<p>Celebration of IEEE fellowship</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/2013-SIGCOMM.jpg" alt="">
+	  <div class="carousel-caption d-none d-md-block">
+		<h5>2013</h5>
+		<p>SIGCOMM Hong Kong</p>
       </div>
     </div>
     <div class="carousel-item">

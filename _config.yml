@@ -1,0 +1,58 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: Happy Birthday
+description: |
+  Happy 70th Birthday, Dah Ming!  
+  Warm regards from your students of all years
+owner: Dahming Chiu # or company name
+first_published: 2021 # if migrating another site, the year of your first publish
+email: adrian.sw.tam@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://dahmingchiu.github.io" # the base hostname & protocol for your site
+social:
+  #twitter: 
+  #github: 
+  #linkedin-square: 
+  #facebook-official: 
+  #google-plus-square: 
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
