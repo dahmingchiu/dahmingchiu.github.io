@@ -11,7 +11,7 @@ subtitle: to commemorate your 70th birthday
 | | Adrian “What Sally Floyd overlooked in TCP” |
 | | Joe “A graph placement methodology for fast chip design” |
 | | Fan Bin “From PhD thesis to real world product” |
-| | Wang Yue |
+| | Wang Yue “Teaching, studying and living after PhD” |
 | | Yipeng “Towards Efficient and Secure Federated Learning” |
 | | Wang Hui “A brief introduction of my current research focuses” |
 | 2:45am-3:30am GMT | Sharing session |
